@@ -1,0 +1,16 @@
+
+The config folder in this repository serves as a centralized location for configuration files and related information crucial for setting up 
+and maintaining the PantryPulse website. This folder helps streamline the setup process, making it easier for others to deploy and configure 
+the website. Here’s an overview of what you can include in the config folder:
+
+1. wp-config-sample.php:
+This is a template for the WordPress configuration file (wp-config.php). It contains placeholder values that users need to replace with their 
+actual database credentials and other configuration details. Including a sample configuration file helps new users understand how to configure 
+WordPress for your site.
+
+2. .htaccess:
+This file provides a sample of the .htaccess configuration that is typically used for URL rewriting, security rules, and performance optimizations. 
+Users can rename this file to .htaccess and modify it as needed.
+
+By organizing these configuration files and documentation in the config folder, you provide a clear and structured way for others to set up and manage 
+the PantryPulse website, making the deployment process much smoother and more efficient.
