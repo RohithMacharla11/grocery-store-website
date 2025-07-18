@@ -1,4 +1,4 @@
-# Grocery Store Website
+# PantryPulse Website
 
 PantryPulse is a WordPress-based website designed to help users efficiently manage their pantry inventory. Whether for households or small businesses, PantryPulse offers a user-friendly platform to keep track of pantry items, manage stock levels, and minimize waste by ensuring timely usage of products.
 
